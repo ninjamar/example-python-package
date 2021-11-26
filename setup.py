@@ -12,6 +12,6 @@ setuptools.setup(
   	packages=['epp'],
 	long_description=long_description,
 	long_description_content_type="text/markdown",
-	license_files = ("LICENSE",)
+	license_files = ("LICENSE",),
 	python_requires='>=3.7',  
 )
